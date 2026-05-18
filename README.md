@@ -2,10 +2,8 @@
 
 ## Worldviews, Science, and Genesis 1-11
 - *Origin* examines Christianity and naturalism not merely as religious or scientific positions, but as competing civilizational worldviews that shape how evidence, causation, origins, and history are interpreted.
-- Rather than treating science and Christianity as inherently opposed, the book explores how differing metaphysical assumptions can produce different understandings of reality, scientific interpretation, and the development of civilization itself.
+- The book is written from a modern young-earth creationist Christian perspective and explores how differing metaphysical assumptions influence scientific interpretation and broader understandings of reality.
 - This repository contains the review edition EPUB of Origin.
-
----
 
 ## Central Thesis
 
@@ -21,8 +19,6 @@ Modern naturalism is often presented as a neutral or purely scientific default. 
 The book contrasts this framework with the modern young-earth creationist (YEC) Christian worldview that has developed within parts of Protestant Christianity over recent decades.
 
 The goal is not merely to debate isolated scientific claims, but to examine the deeper philosophical assumptions that shape how evidence itself is interpreted.
-
----
 
 ## Topics Covered
 The book draws on:
@@ -43,8 +39,6 @@ Topics discussed include:
 - the explanatory scope and limits of naturalism
 - differing interpretations of origins and history
 - how civilizations construct foundational narratives
-
----
 
 ## Why This Book Was Written
 
@@ -105,13 +99,9 @@ Appendix F: Evidence for a Young Earth
 - This repository contains a review EPUB edition intended for discussion, critique, and intellectual engagement.
 - Feedback, criticism, and thoughtful discussion are welcome.
 
----
-
 ## Authors
 
 - Graeme Messer and Geoffrey Messer
-
----
 
 ## Notes
 - The goal of this project is not polemics, but serious engagement with worldview-level assumptions underlying discussions of science, origins, and civilization.
