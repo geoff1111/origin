@@ -86,11 +86,11 @@ Origin approaches the issue differently.
 
 ### APPENDICES
 
-Appendix A: The Problems of Suffering and Evil 
-Appendix B: Radiometric Dating 
-Appendix C: Abiogenesis Calculations 
-Appendix D: The Intelligent Design Movement
-Appendix E: Catastrophic Plate Tectonics 
+Appendix A: The Problems of Suffering and Evil \
+Appendix B: Radiometric Dating \
+Appendix C: Abiogenesis Calculations \
+Appendix D: The Intelligent Design Movement \
+Appendix E: Catastrophic Plate Tectonics \
 Appendix F: Evidence for a Young Earth
 
 ---
