@@ -46,6 +46,8 @@ Public discussions surrounding Christianity, science, and origins are often fram
 
 *Origin* approaches the issue differently.
 - The book is written as a one-stop-shop to get readers across the issues and arguments efficiently.
+- Issues are framed with a broader context than has been done before, and multiple facets of key issues are exposed.
+- The tone is purposely non-polemical.
 - The book argues that both Christianity and naturalism provide broader interpretive frameworks through which scientific evidence, historical development, and human meaning are understood.
 - Rather than focusing solely on isolated scientific disputes, the book attempts to examine the worldview-level assumptions beneath the debate itself.
 
