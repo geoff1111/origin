@@ -99,7 +99,7 @@ Appendix F: Evidence for a Young Earth
 ---
 
 ## Review Edition
-- This repository contains a review EPUB edition intended for discussion, critique, and intellectual engagement.
+- This repository contains a Release of the **review EPUB edition** intended for discussion, critique, and intellectual engagement.
 - Feedback, criticism, and thoughtful discussion are welcome.
 
 ## Authors
