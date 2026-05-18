@@ -106,7 +106,7 @@ Appendix F: Evidence for a Young Earth
 ## Notes
 - The goal of this project is not polemics, but serious engagement with worldview-level assumptions underlying discussions of science, origins, and civilization.
 - Readers from differing philosophical and religious perspectives are encouraged to engage critically with the arguments presented.
-- Origin was originally published via Amazon KDP in November 2025.
+- *Origin* was originally published via Amazon KDP in November 2025.
 - Portions of the manuscript were reviewed and critiqued by readers from backgrounds including theology, law, pastoral ministry, and young-earth creationism.
 - This project is intended as a serious contribution to discussions surrounding:
   + worldviews
