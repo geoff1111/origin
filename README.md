@@ -49,6 +49,7 @@ Public discussions surrounding Christianity, science, and origins are often fram
 - Issues are framed with a broader context than has been done before, and multiple facets of key issues are exposed.
 - The tone is purposely non-polemical.
 - The science, philosophy, history and theology of the debate are covered.
+- No worldview is neutral; this book explicitly argues from one framework while examining the assumptions underlying another.
 
 ## Contents
 
