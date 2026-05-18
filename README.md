@@ -3,7 +3,7 @@
 ## Worldviews, Science, and Genesis 1-11
 - *Origin* examines Christianity and naturalism not merely as religious or scientific positions, but as competing civilizational worldviews that shape how evidence, causation, origins, and history are interpreted.
 - The book is written from a modern young-earth creationist Christian perspective and explores how differing metaphysical assumptions influence scientific interpretation and broader understandings of reality.
-- This repository contains the review edition EPUB of Origin.
+- This repository contains the review edition EPUB of *Origin*.
 
 ## Central Thesis
 
