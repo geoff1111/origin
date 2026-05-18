@@ -7,7 +7,7 @@
 
 ## Central Thesis
 
-Modern naturalism is often presented as a neutral or purely scientific default. Origin argues instead that naturalism functions as a comprehensive worldview with its own assumptions regarding:
+Modern naturalism is often presented as a neutral or purely scientific default. *Origin* argues instead that naturalism functions as a comprehensive worldview with its own assumptions regarding:
 - causation
 - meaning
 - authority
