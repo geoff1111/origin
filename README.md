@@ -1,6 +1,6 @@
 # Origin
 
-## Worldviews, Science, and Genesis 1--11
+## Worldviews, Science, and Genesis 1-11
 - Origin examines Christianity and naturalism not merely as religious or scientific positions, but as competing civilizational worldviews that shape how evidence, causation, origins, and history are interpreted.
 - Rather than treating science and Christianity as inherently opposed, the book explores how differing metaphysical assumptions can produce different understandings of reality, scientific interpretation, and the development of civilization itself.
 - This repository contains the review edition EPUB of Origin.
@@ -29,7 +29,7 @@ The book draws on:
 - philosophy of science
 - epistemology
 - history of scientific thought
-- Genesis 1--11
+- Genesis 1-11
 - critiques of scientific naturalism
 - worldview analysis
 - civilizational development
@@ -81,10 +81,10 @@ Origin approaches the issue differently.
 ### PART 3: A YOUNG-EARTH CREATIONIST VIEW OF GENESIS 1--11
 
 15. Approaching Genesis 
-16. Genesis 1--2: The Creation Week 
+16. Genesis 1-2: The Creation Week 
 17. The Conundrum of the Ages 
-18. Genesis 3--6: The Fall and Judgment 
-19. Genesis 7--11: Flood and Confusion 
+18. Genesis 3-6: The Fall and Judgment 
+19. Genesis 7-11: Flood and Confusion 
 
 ### PART 4: OUTLOOK
 
