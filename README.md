@@ -3,7 +3,8 @@
 ## Worldviews, Science, and Genesis 1-11
 - *Origin* examines Christianity and naturalism not merely as religious or scientific positions, but as competing civilizational worldviews that shape how evidence, causation, origins, and history are interpreted.
 - The book is written from a modern young-earth creationist Christian perspective and explores how differing metaphysical assumptions influence scientific interpretation and broader understandings of reality.
-- This repository contains the review edition EPUB of *Origin*.
+- This repository contains a Release of the **review EPUB edition** intended for discussion, critique, review and intellectual engagement.
+- Thoughtful criticism, corrections, and discussion are welcome via GitHub Discussions.
 
 ## Central Thesis
 
@@ -47,8 +48,8 @@ Public discussions surrounding Christianity, science, and origins are often fram
 *Origin* approaches the issue differently.
 - The book is written as a one-stop-shop to get readers across the issues and arguments efficiently. This addresses a gap in the creationist literature.
 - Issues are framed with a broader context than has been done before, and multiple facets of key issues are exposed.
-- The tone is purposely non-polemical.
-- The science, philosophy, history and theology of the debate are covered.
+- The tone is non-polemical.
+- Science, philosophy, history and theology of the debate are covered.
 - No worldview is neutral; this book explicitly argues from one framework while examining the assumptions underlying another.
 
 ## Contents
@@ -98,25 +99,19 @@ Appendix F: Evidence for a Young Earth
 
 ---
 
-## Review Edition
-- This repository contains a Release of the **review EPUB edition** intended for discussion, critique, and intellectual engagement.
-- Feedback, criticism, and thoughtful discussion are welcome.
-
 ## Authors
 
 - Graeme Messer and Geoffrey Messer
 
 ## Notes
-- The goal of this project is not polemics, but serious engagement with worldview-level assumptions underlying discussions of science, origins, and civilization.
-- Readers from differing philosophical and religious perspectives are encouraged to engage critically with the arguments presented.
 - *Origin* took roughly four years to research and write and was originally published via Amazon KDP in November 2025.
 - Portions of the manuscript were reviewed and critiqued by readers from backgrounds including theology, law, pastoral ministry, and young-earth creationism.
+- The goal of this project is not polemics, but serious engagement with worldview-level assumptions underlying discussions of science, origins, and civilization.
+- Readers from differing philosophical and religious perspectives are encouraged to engage critically with the arguments presented.
 - This project is intended as a serious contribution to discussions surrounding:
   + worldviews
   + philosophy of science
   + origins
   + civilization
   + Christianity and naturalism
-
-Thoughtful criticism, corrections, and discussion are welcome via GitHub Discussions.
 
