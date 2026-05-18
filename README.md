@@ -1,4 +1,4 @@
-# Origin
+# *Origin*
 
 ## Worldviews, Science, and Genesis 1-11
 - *Origin* examines Christianity and naturalism not merely as religious or scientific positions, but as competing civilizational worldviews that shape how evidence, causation, origins, and history are interpreted.
