@@ -44,10 +44,11 @@ Topics discussed include:
 
 Public discussions surrounding Christianity, science, and origins are often framed as a conflict between "religion" and "science".
 
-Origin approaches the issue differently.
+*Origin* approaches the issue differently.
+- The book is written as a one-stop-shop to get readers across the issues and arguments efficiently.
 - The book argues that both Christianity and naturalism provide broader interpretive frameworks through which scientific evidence, historical development, and human meaning are understood.
 - Rather than focusing solely on isolated scientific disputes, the book attempts to examine the worldview-level assumptions beneath the debate itself.
-- The book is written as a one-stop-shop to get readers across the issues and arguments efficiently.
+
 
 ## Contents
 
